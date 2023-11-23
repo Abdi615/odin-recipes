@@ -1,3 +1,3 @@
 # odin-recipes
-Recipes
+Recipes - 
 This will be first my Odin HTML page
